@@ -119,9 +119,6 @@ Image generation performance depends on the computer's available CPU, GPU, and R
 
 The quality of generated images depends on the selected model and prompt.
 
-
-GitHub Repository: https://github.com/kaszuk29-ship-it/Image_generator
-
 📄 License
 
 This project is intended for educational and demonstration purposes.
