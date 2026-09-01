@@ -28,9 +28,6 @@ PyTorch -- used by the diffusion pipeline
 
 Pillow -- for image handling
 
-📁 Project Structure
-
-Image_generator/ │ ├── Image_Generator.py ├── README.md ├── WhatsApp Image 2026-08-19 at 10.17.46 PM.jpeg └── WhatsApp Image 2026-08-19 at 10.17.46 PM.jpeg
 
 ⚙️ Installation
 
@@ -45,10 +42,6 @@ Note: Image generation can require significant memory and processing power. A GP
 Run the following command inside the project folder:
 
 streamlit run Image_Generator.py
-
-The application will normally open in your browser at:
-
-http://localhost:8501
 
 🧑‍💻 How to Use
 
@@ -126,9 +119,6 @@ Image generation performance depends on the computer's available CPU, GPU, and R
 
 The quality of generated images depends on the selected model and prompt.
 
-👨‍💻 Author
-
-kaszuk29-ship-it
 
 GitHub Repository: https://github.com/kaszuk29-ship-it/Image_generator
 
